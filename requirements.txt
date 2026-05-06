@@ -1,0 +1,3 @@
+pandas
+pandas-datareader
+urllib3<2
