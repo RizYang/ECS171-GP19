@@ -44,4 +44,3 @@ python3 -m venv .venv
 - `--frequency weekly`: much fewer rows (1980-present is roughly ~2.4k rows)
 - `--frequency monthly`: around a few hundred rows
 
-If you need at least 10,000 rows, weekly data from 1980-present is mathematically impossible. Use daily frequency and/or set an earlier `--start-date`.
